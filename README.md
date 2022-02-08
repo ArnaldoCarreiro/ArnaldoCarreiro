@@ -9,7 +9,6 @@
   ##
 <div>
    <img src="https://survivingcollege.com/wp-content/uploads/2013/09/Jesse-Eisenberg-Andrew-Garfield-The-Social-Network-David-Fincher.gif%20" height="250" width="510">
-   <img src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" height="250">
 </div>
 
  <h3> Technologies: </h3>
